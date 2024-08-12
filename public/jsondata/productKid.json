@@ -1,0 +1,122 @@
+[
+    {
+        "productId": 1,
+        "name": "Sữa bột Physiolac",
+        "type": 1,
+        "brand": "Physiolac",
+        "volume": "400g",
+        "rawprice": 350000,
+        "price": 320000,
+        "image": [
+        "productforKid1.png"
+        ],
+        "description": "Sữa bột Physiolac là một sản phẩm dinh dưỡng cao cấp dành cho trẻ em. Được sản xuất từ những nguyên liệu tự nhiên và an toàn, Physiolac cung cấp đầy đủ các dưỡng chất thiết yếu cho sự phát triển toàn diện của trẻ."
+    },
+    {
+        "productId": 2,
+        "name": "Bồn tắm nhựa trẻ em",
+        "type": 2,
+        "brand": "Baby",
+        "volume": "50 x 70 x 25 cm",
+        "rawprice": 250000,
+        "price": 220000,
+        "image": [
+            "productforKid2.png"
+        ],
+        "description": "Bồn tắm nhựa trẻ em là sản phẩm an toàn, thiết kế đẹp mắt và tiện dụng dành cho việc tắm rửa trẻ nhỏ tại nhà. Sản phẩm được làm từ chất liệu nhựa cao cấp, dễ lau chùi và vệ sinh. Kích thước vừa vặn, phù hợp với mọi không gian phòng tắm."
+    },
+    {
+        "productId": 4,
+        "name": "Nôi nhựa cho bé",
+        "type": 2,
+        "brand": "Baby",
+        "volume": "80 x 50 x 60 cm",
+        "rawprice": 600000,
+        "price": 550000,
+        "image": [
+            "productforKid3.png"
+        ],
+        "description": "Nôi nhựa cho bé là sản phẩm thiết yếu giúp bé ngủ ngon và an toàn. Được làm từ chất liệu nhựa cao cấp, nôi có thiết kế đẹp mắt, bền chắc và dễ dàng vệ sinh. Kích thước vừa đủ để bé nằm thoải mái, với các thanh chắn ngăn bé rơi ra ngoài. Sản phẩm phù hợp cho trẻ sơ sinh đến 2 tuổi."
+    },
+    {
+        "productId": 5,
+        "name": "Phấn bột cho bé",
+        "type": 3,
+        "brand": "Baby Care",
+        "volume": "100g",
+        "rawprice": 50000,
+        "price": 45000,
+        "image": [
+            "productforKid4.png"
+        ],
+        "description": "Phấn bột cho bé là sản phẩm chăm sóc da cần thiết để giữ cho da bé luôn mịn màng, sạch sẽ. Sản phẩm được chế biến từ các thành phần tự nhiên, không chứa chất gây kích ứng, an toàn cho da trẻ em. Phấn bột có khả năng hấp thụ ẩm, kiểm soát tiết bã nhờn và làm dịu các vùng da bị kích ứng."
+    },
+    {
+        "productId": 6,
+        "name": "Nôi GRACO hiện đại cho bé",
+        "type": 2,
+        "brand": "GRACO",
+        "volume": "90 x 60 x 100 cm",
+        "rawprice": 1500000,
+        "price": 1350000,
+        "image": [
+            "productforKid5.png"
+        ],
+        "description": "Nôi GRACO hiện đại là sản phẩm chất lượng cao, được thiết kế với nhiều tính năng tiện ích dành cho sự phát triển và an toàn của bé. Khung nôi được làm từ chất liệu gỗ an toàn, bền chắc. Nôi có thể điều chỉnh độ cao, tích hợp bánh xe di chuyển tiện lợi. Thiết kế đẹp mắt, phù hợp với không gian hiện đại."
+    },
+    {
+        "productId": 7,
+        "name": "Nôi GRACO VIP cho bé",
+        "type": 2,
+        "brand": "GRACO",
+        "volume": "100 x 70 x 120 cm",
+        "rawprice": 2300000,
+        "price": 2100000,
+        "image": [
+            "productforKid7.png"
+        ],
+        "description": "Nôi GRACO VIP là sản phẩm cao cấp, với thiết kế hiện đại và nhiều tính năng thông minh. Khung nôi được làm từ gỗ chất lượng cao, có khả năng điều chỉnh độ cao linh hoạt. Nôi tích hợp bánh xe chuyển di dễ dàng, và có thể gắn thêm các phụ kiện như màn che, đèn ngủ. Sản phẩm phù hợp cho trẻ sơ sinh đến 3 tuổi, đảm bảo an toàn và sự phát triển tốt nhất cho bé."
+    },
+    {
+        "productId": 8,
+        "name": "Sữa bột Similac Pro",
+        "type": 1,
+        "brand": "Similac",
+        "volume": "900g",
+        "rawprice": 450000,
+        "price": 420000,
+        "image": [
+            "productforKid8.png"
+        ],
+        "description": "Sữa bột Similac Pro là sản phẩm dinh dưỡng cao cấp, đáp ứng nhu cầu dinh dưỡng toàn diện cho trẻ sơ sinh và trẻ nhỏ. Sản phẩm chứa nguồn dinh dưỡng phong phú như protein, chất béo, vitamin và khoáng chất cần thiết cho sự phát triển khỏe mạnh của bé. Similac Pro được bổ sung HMO - một chất xơ quan trọng giúp tăng cường hệ miễn dịch. Đây là lựa chọn tin cậy cho bữa ăn hằng ngày của bé."
+    },
+    {
+        "productId": 9,
+        "name": "Sữa bột Physiolac chú gấu",
+        "type": 1,
+        "brand": "Physiolac",
+        "volume": "800g",
+        "rawprice": 370000,
+        "price": 330000,
+        "image": [
+            "productforKid9.png"
+        ],
+        "description": "Sữa bột Physiolac chú gấu là sản phẩm dinh dưỡng dành cho trẻ sơ sinh và trẻ nhỏ. Sản phẩm được thiết kế với hình ảnh chú gấu dễ thương, thu hút sự quan tâm của bé. Sữa Physiolac chứa các thành phần dinh dưỡng quan trọng như protein, lipid, vitamin và khoáng chất cần thiết cho sự phát triển toàn diện của trẻ. Sản phẩm không chứa thành phần gây dị ứng, an toàn và phù hợp với nhu cầu của trẻ."
+    },
+    {
+        "productId": 10,
+        "name": "Rào chắn gỗ cho bé",
+        "type": 1,
+        "brand": "Kiddies",
+        "volume": "120 x 60 x 70 cm",
+        "rawprice": 1200000,
+        "price": 1100000,
+        "image": [
+            "productforKid10.png"
+        ],
+        "description": "Rào chắn gỗ ghép chỗ vui chơi cho bé là sản phẩm an toàn và đáng tin cậy để tạo ra khu vực vui chơi an toàn cho trẻ em. Rào chắn được làm bằng gỗ MDF chất lượng cao, có thể dễ dàng lắp ráp và di chuyển. Sản phẩm có nhiều kích cỡ khác nhau để phù hợp với không gian trong nhà hoặc ngoài trời. Rào chắn này giúp ngăn chặn trẻ ra khỏi khu vực nguy hiểm, đồng thời tạo ra một không gian vui chơi an toàn và thoải mái cho bé."
+    }
+
+
+
+]

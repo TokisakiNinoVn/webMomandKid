@@ -1,0 +1,8 @@
+ProductDetail.vue
+ProductList.vue
+SearchResults.vue
+AppCart.vue
+ProductMomList.vue
+ProductDetalView.vue
+public/jsondata/productKid.json
+public/jsondata/productMom.json

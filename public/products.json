@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "phone": {
+      "name": "Phone A",
+      "description": "Description for Phone A",
+      "model": "qiwuyq ",
+      "manufacturer": "Apple",
+      "display": {
+        "size": 6.7
+      },
+      "camera": {
+        "rear": {
+            "megapixels": 48
+          },
+        "front": {
+          "megapixels": 12
+        }
+      },
+      "processor": {
+        "name": "Apple A16 Bionic"
+      },
+      "price": {
+        "msrp": 1099,
+        "current": 999
+      }
+    },
+    "images": [
+      "anh1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "phone": {
+      "name": "Phone A",
+      "description": "Description for Phone A",
+      "model": "iPhone 14 Pro Max",
+      "manufacturer": "Apple",
+      "display": {
+        "size": 6.7
+      },
+      "camera": {
+        "rear": {
+            "megapixels": 48
+          },
+        "front": {
+          "megapixels": 12
+        }
+      },
+      "processor": {
+        "name": "Apple A16 Bionic"
+      },
+      "price": {
+        "msrp": 1099,
+        "current": 999
+      }
+    },
+    "images": [
+      "anh2.jpg"
+    ]
+  }
+]
+  

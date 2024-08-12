@@ -1,0 +1,78 @@
+[
+    {
+        "productId": 1,
+        "name": "Máy hút sữa Spectra S1 Plus",
+        "type": 1,
+        "brand": "Spectra",
+        "features": [
+            "Chế độ hút sữa êm ái, không gây đau",
+            "Tích hợp pin sạc tiện lợi",
+            "Dễ dàng vệ sinh và sử dụng"
+        ],
+        "image": [
+            "productforMom1.png"
+        ],
+        "power_source": "Pin sạc và điện",
+        "warranty": "2 năm",
+        "rawprice": 3200000,
+        "price": 2900000,
+        "description": "Máy hút sữa điện đôi Spectra S1 Plus là sự lựa chọn hoàn hảo cho các mẹ."
+    },
+    {
+        "productId": 3,
+        "name": "Máy hút sữa Philips Avent",
+        "type": 1,
+        "brand": "Philips",
+        "features": [
+            "Thiết kế nhỏ gọn, dễ mang theo",
+            "Có chế độ massage nhẹ nhàng",
+            "Hoạt động êm ái, không gây tiếng ồn"
+        ],
+        "image": [
+            "productforMom3.png"
+        ],
+        "power_source": "Điện",
+        "warranty": "1 năm",
+        "rawprice": 2800000,
+        "price": 2500000,
+        "description": "Máy hút sữa Philips Avent mang lại sự thoải mái và hiệu quả cho các mẹ."
+    },
+    {
+        "productId": 2,
+        "name": "Máy hút sữa Medela Freestyle",
+        "type": 1,
+        "brand": "Medela",
+        "features": [
+            "Thiết kế nhỏ gọn, dễ dàng mang theo",
+            "Có kết nối Bluetooth với ứng dụng MyMedela",
+            "Pin sạc có thể dùng đến 8 phiên hút"
+        ],
+        "image": [
+            "productforMom2.png"
+        ],
+        "power_source": "Pin sạc và điện",
+        "warranty": "2 năm",
+        "rawprice": 4000000,
+        "price": 3700000,
+        "description": "Máy hút sữa Medela Freestyle Flex giúp mẹ thoải mái và hiệu quả trong việc hút sữa."
+    },
+    {
+        "productId": 5,
+        "name": "Máy hút sữa Unimom Forte",
+        "type": 1,
+        "brand": "Unimom",
+        "features": [
+            "Hút sữa đôi mạnh mẽ",
+            "Điều chỉnh lực hút theo nhu cầu",
+            "Thiết kế nhỏ gọn, dễ vệ sinh"
+        ],
+        "image": [
+            "productforMom1.png"
+        ],
+        "power_source": "Điện",
+        "warranty": "2 năm",
+        "rawprice": 2500000,
+        "price": 2200000,
+        "description": "Máy hút sữa Unimom Forte mang đến sự tiện lợi và thoải mái cho các mẹ."
+    }
+]
