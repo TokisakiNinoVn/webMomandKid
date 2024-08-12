@@ -17,7 +17,7 @@
   
   <style scoped>
     .cart-container {
-      margin-top: 100px;
+      margin-top: 120px !important;
       min-height: 100vh;
     }
   </style>
